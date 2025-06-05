@@ -1,2 +1,2 @@
-# Billing-System
-Developed a billing system simulator that processes CDR files to generate monthly invoices  using custom pricing models and rate plans associated with specific service packages.  The system securely stores CDR records in a dependable database to ensure precise billing.
+# Telecom-Billing-System
+A complete end-to-end Telecom Billing and Customer Management System built with Java, Servlets, PostgreSQL, and PDF invoicing.
